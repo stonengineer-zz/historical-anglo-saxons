@@ -1844,9 +1844,9 @@
 				female = no
 				age = 23
 				attributes = {
-					martial = 5
+					learning = 7
 				}
-				trait = tough_soldier
+				trait = mastermind_theologian
 			}
 			new_character = {
 				spawn_unit = {
@@ -9075,6 +9075,9 @@
     religion="catholic"
     culture="saxon"
 	female="yes"
+	trait=charismatic_negotiator
+	trait=kind
+	trait=chaste
     848.1.1={
         birth=yes
     }
@@ -9118,6 +9121,10 @@
     culture="saxon"
 	father=194041
 	female=yes
+	trait=martial_cleric
+	trait=chaste
+	trait=envious
+	trait=zealous
     851.1.1={
         birth=yes
     }

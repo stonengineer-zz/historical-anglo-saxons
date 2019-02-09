@@ -3828,6 +3828,41 @@
 				}
 				attrition = 0.5
 			}
+			spawn_unit = {
+				province = 1941 # Hull
+				owner = ROOT
+				#leader = ROOT
+				troops = {
+					light_infantry = { 118 118 }
+					heavy_infantry = { 3723 3723 }
+					pikemen = { 199 199 }
+					archers = { 325 325 }
+					light_cavalry = { 503 503 }
+				}
+				attrition = 0.5
+			}
+			spawn_unit = {
+				province = 1941 # Hull
+				owner = ROOT
+				#leader = ROOT
+				troops = {
+					light_infantry = { 118 118 }
+					heavy_infantry = { 3723 3723 }
+					pikemen = { 199 199 }
+					archers = { 325 325 }
+					light_cavalry = { 503 503 }
+				}
+				attrition = 0.5
+			}
+			spawn_fleet = {
+				province = closest # closest sea zone
+				owner = ROOT
+				cannot_inherit = yes # disbands on inheritance
+				troops =
+				{
+					galleys = { 100 100 }
+				}
+			}
 			c_163119 = { # Ubbe
 				spawn_unit = {
 					province = 57 # York

@@ -1,25 +1,23 @@
-name = "The Sons of Lodbrok Invasion of East Anglia"
+name = "The Sons of Lodbrok Invasion of Lothian"
 
 casus_belli = {
 	actor = 163111 # Ivar the Boneless
-	recipient = 163064 #Edmund of East Anglia
+	recipient = 163103 # Aella of Northumberland
 	casus_belli=tribal_invasion
-	landed_title=k_england
+	landed_title=k_scotland
 	date=865.1.1
 }
 
 865.1.1 = {
 	add_attacker = 163111 # Ivar the Boneless
 	add_attacker = 163110 # Sigurdr Snake-in-the-eye
-	add_attacker = 163112 # Halfdan Ragnarsson
 	add_attacker = 163108 # Björn Ironside
-	add_defender = 163064
+	add_defender = 163103
 }
 
 867.3.21 = {
-	rem_attacker = 163112 # Halfdan Ragnarsson
 	rem_attacker = 163108 # Björn Ironside
 	rem_attacker = 163110
 	rem_attacker = 163111
-	rem_defender = 163064
+	rem_defender = 163103
 }
