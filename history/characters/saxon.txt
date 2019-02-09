@@ -9092,6 +9092,7 @@
     name="Æthelhelm"
     religion="catholic"
     culture="saxon"
+	dynasty=100072
 	father=33358
 	mother=100033325
     865.1.1={
@@ -9105,6 +9106,7 @@
     name="Æthelwold"
     religion="catholic"
     culture="saxon"
+	dynasty=100072
 	father=33358
 	mother=100033325
     867.1.1={
@@ -9119,12 +9121,13 @@
 	dynasty=1047005
     religion="catholic"
     culture="saxon"
-	father=194041
+	father=205094
 	female=yes
 	trait=martial_cleric
 	trait=chaste
 	trait=envious
 	trait=zealous
+	trait=proud
     851.1.1={
         birth=yes
     }

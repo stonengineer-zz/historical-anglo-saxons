@@ -3821,7 +3821,7 @@
 				#leader = ROOT
 				troops = {
 					light_infantry = { 118 118 }
-					heavy_infantry = { 3723 3723 }
+					heavy_infantry = { 1273 1273 }
 					pikemen = { 199 199 }
 					archers = { 325 325 }
 					light_cavalry = { 503 503 }
@@ -3834,7 +3834,7 @@
 				#leader = ROOT
 				troops = {
 					light_infantry = { 118 118 }
-					heavy_infantry = { 3723 3723 }
+					heavy_infantry = { 1273 1273 }
 					pikemen = { 199 199 }
 					archers = { 325 325 }
 					light_cavalry = { 503 503 }
@@ -3847,7 +3847,7 @@
 				#leader = ROOT
 				troops = {
 					light_infantry = { 118 118 }
-					heavy_infantry = { 3723 3723 }
+					heavy_infantry = { 1273 1273 }
 					pikemen = { 199 199 }
 					archers = { 325 325 }
 					light_cavalry = { 503 503 }
@@ -3869,7 +3869,7 @@
 					owner = PREV
 					troops = {
 						light_infantry = { 118 118 }
-						heavy_infantry = { 3723 3723 }
+						heavy_infantry = { 1273 1273 }
 						pikemen = { 199 199 }
 						archers = { 325 325 }
 						light_cavalry = { 503 503 }
@@ -3895,7 +3895,7 @@
 					owner = PREV
 					troops = {
 						light_infantry = { 118 118 }
-						heavy_infantry = { 3723 3723 }
+						heavy_infantry = { 1273 1273 }
 						pikemen = { 199 199 }
 						archers = { 325 325 }
 						light_cavalry = { 503 503 }
