@@ -1372,15 +1372,20 @@
 	culture=saxon
 	trait=honest
 	trait=just
-	trait=gregarious
+	trait=erudite
 	trait=diligent
 	trait=quick
-	trait=brilliant_strategist
+	trait=skilled_tactician
+	trait=defensive_leader
+	trait=holy_warrior
 	trait=has_chrons
 	father=33355
 	mother=252210
 	849.1.1={
 		birth=yes
+	}
+	867.1.1={
+		add_spouse = 100033328
 	}
 	890.1.1 = {
 		give_nickname=nick_the_great
@@ -1721,13 +1726,18 @@
 	culture="saxon"
 	father=33355
 	mother=252210
-	trait=charismatic_negotiator
+	trait=martial_cleric
+	trait=zealous
 	trait=kind
 	trait=erudite
 	trait=lustful
-	trait=content
+	trait=brave
+	health=3.25
 	840.1.1={
 		birth="840.1.1"
+	}
+	865.1.1={
+		add_spouse = 100033325
 	}
 	867.1.1={
 		effect = { # Waerod of Wessex
@@ -9060,4 +9070,61 @@
         death=yes
     }
 }
-
+100033325 = {
+    name="Wulfthryth"
+    religion="catholic"
+    culture="saxon"
+	female="yes"
+    848.1.1={
+        birth=yes
+    }
+	865.1.1={
+		add_spouse = 33358
+	}
+    900.1.1={
+        death=yes
+    }
+}
+100033326 = {
+    name="Æthelhelm"
+    religion="catholic"
+    culture="saxon"
+	father=33358
+	mother=100033325
+    865.1.1={
+        birth=yes
+    }
+    890.1.1={
+        death=yes
+    }
+}
+100033327 = {
+    name="Æthelwold"
+    religion="catholic"
+    culture="saxon"
+	father=33358
+	mother=100033325
+    867.1.1={
+        birth=yes
+    }
+    902.1.1={
+        death=yes
+    }
+}
+100033328 = {
+    name="Ealhswith"
+	dynasty=1047005
+    religion="catholic"
+    culture="saxon"
+	father=194041
+	female=yes
+    851.1.1={
+        birth=yes
+    }
+	867.1.1={
+		add_spouse = 7627
+	}
+    905.1.1={
+        death=yes
+    }
+}
