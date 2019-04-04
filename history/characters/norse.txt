@@ -3840,6 +3840,7 @@
 					light_cavalry = { 503 503 }
 				}
 				attrition = 0.5
+				disband_on_peace = yes
 			}
 			spawn_unit = {
 				province = 1941 # Hull
@@ -3853,6 +3854,7 @@
 					light_cavalry = { 503 503 }
 				}
 				attrition = 0.5
+				disband_on_peace = yes
 			}
 			spawn_fleet = {
 				province = closest # closest sea zone
@@ -3860,8 +3862,18 @@
 				cannot_inherit = yes # disbands on inheritance
 				troops =
 				{
-					galleys = { 100 100 }
+					galleys = { 30 30 }
 				}
+			}
+			spawn_fleet = {
+				province = closest # closest sea zone
+				owner = ROOT
+				cannot_inherit = yes # disbands on inheritance
+				troops =
+				{
+					galleys = { 70 70 }
+				}
+				disband_on_peace = yes
 			}
 			c_163119 = { # Ubbe
 				spawn_unit = {
@@ -3956,6 +3968,11 @@
 	}
 	866.11.1={
 		employer = 163112
+		add_claim = c_lincoln
+		add_claim = c_leicester
+		add_claim = c_derby
+		add_claim = c_northampton
+		add_claim = c_bedford
 	}
 	878.6.6={ 
 		death=yes # Battle of Cynwit

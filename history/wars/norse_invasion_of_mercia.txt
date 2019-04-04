@@ -1,0 +1,24 @@
+# -*- ck2.history.wars -*-
+
+name = "The Sons of Lodbrok Invasion of Mercia"
+
+casus_belli = {
+	actor = 163119 # Ubbe
+	recipient = 163102 # Burhred of Mercia
+	casus_belli = claim_all
+	date = 865.1.1
+}
+
+865.1.1 = {
+	add_attacker = 163119 # Ubbe
+	add_attacker = 163112 # Halfdan Ragnarsson
+	add_attacker = 163111 # Ivar the Boneless
+	add_defender = 163102 # vs. Burhred of Mercia
+}
+
+867.3.21 = {
+	rem_attacker = 163119 # Ubbe
+	rem_attacker = 163111 # Ivar the Boneless
+	rem_attacker = 163112 # Halfdan Ragnarsson
+	rem_defender = 163102 # vs. Burhred of Mercia
+}
