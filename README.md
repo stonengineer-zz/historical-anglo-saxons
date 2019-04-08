@@ -1,2 +1,0 @@
-# Setup
-Download or clone this repository to your 'Documents\Paradox Interactive\Crusader Kings II\mod\' folder, and extract it if need be. Ensure the contents are located in your 'Documents\Paradox Interactive\Crusader Kings II\mod\historical-anglo-saxons' folder, and then double click the deploy.bat file to generate the CK2 mod file. Launch CK2, then select it, and it should work.
