@@ -23,6 +23,12 @@
 616.1.1={
 	holder = 205003 # Raedwald
 	law = tribal_organization_2
+	law = war_voting_power_1
+	law = revoke_title_voting_power_1
+	law = imprison_voting_power_1
+	law = grant_title_voting_power_1
+	law = banish_voting_power_1
+	law = execution_voting_power_1
 }
 627.1.1={
 	holder = 205004 # Eorpwald

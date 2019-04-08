@@ -65,7 +65,12 @@
 }
 822.1.1={
 	law = tribal_organization_3
-	law = revoke_title_law_1
+	law = war_voting_power_1
+	law = revoke_title_voting_power_1
+	law = imprison_voting_power_1
+	law = grant_title_voting_power_1
+	law = banish_voting_power_1
+	law = execution_voting_power_1
 }
 839.2.5={
 	holder=33355 # Aethelwulf
