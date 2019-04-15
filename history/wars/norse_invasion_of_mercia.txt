@@ -13,6 +13,7 @@ casus_belli = {
 	add_attacker = 163119 # Ubbe
 	add_attacker = 163112 # Halfdan Ragnarsson
 	add_attacker = 163111 # Ivar the Boneless
+	add_defender = 33358  # vs. Æthelred of Wessex
 	add_defender = 163102 # vs. Burhred of Mercia
 }
 
@@ -20,5 +21,6 @@ casus_belli = {
 	rem_attacker = 163119 # Ubbe
 	rem_attacker = 163111 # Ivar the Boneless
 	rem_attacker = 163112 # Halfdan Ragnarsson
+	rem_defender = 33358  # vs. Æthelred of Wessex
 	rem_defender = 163102 # vs. Burhred of Mercia
 }

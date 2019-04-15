@@ -3394,6 +3394,9 @@
 	father=205025
 	425.1.1={
 		birth="425.1.1"
+		create_bloodline = {
+			type = has_hengest_horsa
+		}
 	}
 	500.1.1={
 		death="500.1.1"
@@ -3407,6 +3410,9 @@
 	father=205025
 	426.1.1={
 		birth="426.1.1"
+		create_bloodline = {
+			type = has_hengest_horsa
+		}
 	}
 	500.1.1={
 		death="500.1.1"
@@ -4205,6 +4211,9 @@
 	trait= zealous
 	600.1.1={
 		birth="600.1.1"
+		create_bloodline = {
+			type = has_penda
+		}
 	}
 	655.11.15={
 		death="655.11.15"
@@ -4413,6 +4422,9 @@
 	#mother=Marcellina
 	730.1.1={
 		birth="730.1.1"
+		create_bloodline {
+			type = has_offa
+		}
 	}
 	760.1.1={
 		add_spouse=205074
@@ -5145,6 +5157,9 @@
 	father=252190
 	460.1.1={
 		birth=yes
+		create_bloodline = {
+			type = has_cerdic
+		}
 	}
 	534.1.1={
 		death=yes
@@ -6621,6 +6636,9 @@
 	father=205201
 	505.1.1={
 		birth="505.1.1"
+		create_bloodline = {
+			type = has_ida
+		}
 	}
 	559.1.1={
 		death="559.1.1"
