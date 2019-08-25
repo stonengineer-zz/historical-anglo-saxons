@@ -54,6 +54,9 @@
 	liege="d_northumberland"
 	holder = 100033323
 }
+936.1.1 = {
+	holder = 260541
+}
 1066.1.1={
 liege="d_lothian"
 }

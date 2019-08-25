@@ -22,7 +22,10 @@
 	liege="d_hereford"
 	holder = 100033316
 }
-
+936.1.1 = {
+	holder = 252380
+	liege = d_norfolk
+}
 1055.1.1={
 	liege="d_york"
 	holder=124 #Tostig Godwinson

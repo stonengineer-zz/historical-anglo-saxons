@@ -6,6 +6,9 @@
 	liege="d_hereford"
 	holder = 100033311
 }
+936.1.1 = {
+	holder = 260537
+}
 1066.1.1=
 {
 liege="d_lancaster"

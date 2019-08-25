@@ -9,6 +9,10 @@
 	liege="d_hampshire"
 	holder=10003333
 }
+936.1.1 = {
+	liege = d_canterbury
+	holder = 260530
+}
 1066.1.1={
 liege="d_canterbury"
 }

@@ -70,6 +70,9 @@
 	liege="d_hereford"
 	holder = 100033315
 }
+936.1.1 = {
+	holder = 260528
+}
 1066.1.1={
 	liege="d_lancaster"
 }
